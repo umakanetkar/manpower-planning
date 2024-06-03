@@ -13,3 +13,4 @@ reduced need for unskilled labor and more need for skilled and semi-skilled labo
 1. Linear Programming
 2. Optimization (Gurobi Optimization)
 3. Mathematical Modelling
+4. Python Programming
