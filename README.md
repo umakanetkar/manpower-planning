@@ -10,7 +10,9 @@ reduced need for unskilled labor and more need for skilled and semi-skilled labo
 ● How can they determine the annual savings possible across each job?
 
 ## Skills
-1. Linear Programming
-2. Optimization (Gurobi Optimization)
-3. Mathematical Modelling
-4. Python Programming
+1. Supply Chain Optimization
+2. Demand Forecasting
+3. Optimization (Gurobi Optimization)
+4. Mathematical Modelling
+5. Python Programming
+6. Linear Programming
